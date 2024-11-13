@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst.WebApi", "CodeFirst.WebApi\CodeFirst.WebApi.csproj", "{61D63C30-847A-4A78-A643-67937CACBDFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst.Data", "CodeFirst.Data\CodeFirst.Data.csproj", "{618EC386-1052-4F23-A570-084CBC845C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D63C30-847A-4A78-A643-67937CACBDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D63C30-847A-4A78-A643-67937CACBDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D63C30-847A-4A78-A643-67937CACBDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D63C30-847A-4A78-A643-67937CACBDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{618EC386-1052-4F23-A570-084CBC845C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618EC386-1052-4F23-A570-084CBC845C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618EC386-1052-4F23-A570-084CBC845C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618EC386-1052-4F23-A570-084CBC845C75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

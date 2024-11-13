@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "O4s8L1diDC0zVx9N2GYMXVpov4WjrlpNJ8hZffLlnzk=",
+  "Source": "CodeFirst.WebApi",
+  "BasePath": "_content/CodeFirst.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/cagdasergenc/RiderProjects/CodeFirst/CodeFirst.Data/CodeFirst.Data.csproj",
+      "Version": 2,
+      "Source": "CodeFirst.Data",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
